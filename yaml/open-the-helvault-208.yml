@@ -1,0 +1,115 @@
+---
+object: card
+id: c1995b46-cd88-470d-89ec-37ffb6596348
+oracle_id: e8f213eb-58db-4fab-bd0b-2acfd0a86ac3
+multiverse_ids: []
+tcgplayer_id: 77445
+cardmarket_id: 254773
+name: Bruna, Light of Alabaster
+lang: en
+released_at: '2012-04-28'
+uri: https://api.scryfall.com/cards/c1995b46-cd88-470d-89ec-37ffb6596348
+scryfall_uri: https://scryfall.com/card/phel/208/bruna-light-of-alabaster?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/1/c1995b46-cd88-470d-89ec-37ffb6596348.jpg?1687648698
+  normal: https://cards.scryfall.io/normal/front/c/1/c1995b46-cd88-470d-89ec-37ffb6596348.jpg?1687648698
+  large: https://cards.scryfall.io/large/front/c/1/c1995b46-cd88-470d-89ec-37ffb6596348.jpg?1687648698
+  png: https://cards.scryfall.io/png/front/c/1/c1995b46-cd88-470d-89ec-37ffb6596348.png?1687648698
+  art_crop: https://cards.scryfall.io/art_crop/front/c/1/c1995b46-cd88-470d-89ec-37ffb6596348.jpg?1687648698
+  border_crop: https://cards.scryfall.io/border_crop/front/c/1/c1995b46-cd88-470d-89ec-37ffb6596348.jpg?1687648698
+mana_cost: "{3}{W}{W}{U}"
+cmc: 6.0
+type_line: Legendary Creature — Angel
+oracle_text: |-
+  Flying, vigilance
+  Whenever Bruna, Light of Alabaster attacks or blocks, you may attach to it any number of Auras on the battlefield and you may put onto the battlefield attached to it any number of Aura cards that could enchant it from your graveyard and/or hand.
+power: '5'
+toughness: '5'
+colors:
+- U
+- W
+color_identity:
+- U
+- W
+keywords:
+- Flying
+- Vigilance
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: true
+promo: false
+reprint: true
+variation: false
+set_id: e5c5553c-307e-4bee-ba0b-6e96e0f2c78f
+set: phel
+set_name: Open the Helvault
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/e5c5553c-307e-4bee-ba0b-6e96e0f2c78f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aphel&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/phel?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/c1995b46-cd88-470d-89ec-37ffb6596348/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae8f213eb-58db-4fab-bd0b-2acfd0a86ac3&unique=prints
+collector_number: '208'
+digital: false
+rarity: mythic
+card_back_id: 597b79b3-7d77-4261-871a-60dd17403388
+artist: Winona Nelson
+artist_ids:
+- e45fe8d3-75d6-42c9-a2df-e945ad81ea27
+illustration_id: 467aa396-f9ac-4939-bb7c-37b3412cdf6d
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- instore
+edhrec_rank: 6020
+penny_rank: 12900
+prices:
+  usd: '4.75'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.50'
+  eur_foil: '109.00'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Bruna%2C+Light+of+Alabaster&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Bruna%2C+Light+of+Alabaster&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Bruna%2C+Light+of+Alabaster
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/77445?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Bruna%2C+Light+of+Alabaster&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Bruna%2C+Light+of+Alabaster&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
